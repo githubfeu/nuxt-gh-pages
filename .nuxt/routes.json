@@ -1,0 +1,32 @@
+[
+  {
+    "name": "about-About",
+    "path": "/about/About",
+    "component": "/Users/macbookair/Desktop/Ecom/pages/about/About.vue",
+    "chunkName": "pages/about/About"
+  },
+  {
+    "name": "howtobuy-HowToBuy",
+    "path": "/howtobuy/HowToBuy",
+    "component": "/Users/macbookair/Desktop/Ecom/pages/howtobuy/HowToBuy.vue",
+    "chunkName": "pages/howtobuy/HowToBuy"
+  },
+  {
+    "name": "user-wishlist",
+    "path": "/user/wishlist",
+    "component": "/Users/macbookair/Desktop/Ecom/pages/user/wishlist/index.vue",
+    "chunkName": "pages/user/wishlist/index"
+  },
+  {
+    "name": "product_detail-id",
+    "path": "/product_detail/:id?",
+    "component": "/Users/macbookair/Desktop/Ecom/pages/product_detail/_id.vue",
+    "chunkName": "pages/product_detail/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/macbookair/Desktop/Ecom/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
