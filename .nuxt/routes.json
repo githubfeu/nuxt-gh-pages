@@ -3,30 +3,35 @@
     "name": "about-About",
     "path": "/about/About",
     "component": "/Users/macbookair/Desktop/Ecom/pages/about/About.vue",
-    "chunkName": "pages/about/About"
+    "chunkName": "pages/about/About",
+    "_name": "_71635495"
   },
   {
     "name": "howtobuy-HowToBuy",
     "path": "/howtobuy/HowToBuy",
     "component": "/Users/macbookair/Desktop/Ecom/pages/howtobuy/HowToBuy.vue",
-    "chunkName": "pages/howtobuy/HowToBuy"
+    "chunkName": "pages/howtobuy/HowToBuy",
+    "_name": "_55f3bbce"
   },
   {
     "name": "user-wishlist",
     "path": "/user/wishlist",
     "component": "/Users/macbookair/Desktop/Ecom/pages/user/wishlist/index.vue",
-    "chunkName": "pages/user/wishlist/index"
+    "chunkName": "pages/user/wishlist/index",
+    "_name": "_4781a314"
   },
   {
     "name": "product_detail-id",
     "path": "/product_detail/:id?",
     "component": "/Users/macbookair/Desktop/Ecom/pages/product_detail/_id.vue",
-    "chunkName": "pages/product_detail/_id"
+    "chunkName": "pages/product_detail/_id",
+    "_name": "_0e142792"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/macbookair/Desktop/Ecom/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_441028fc"
   }
 ]
